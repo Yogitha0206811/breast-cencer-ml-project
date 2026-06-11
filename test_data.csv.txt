@@ -1,0 +1,6 @@
+Age,Race,Marital Status,N Stage,6th Stage,differentiate,Grade,A Stage,Tumor Size
+67,White,Married,N2,IIIA,Moderately differentiated,2,Regional,14
+54,White,Married,N2,IIIA,Well differentiated,1,Regional,15
+56,White,Married,N3,IIIC,Moderately differentiated,2,Regional,30
+40,White,Married,N1,IIB,Moderately differentiated,2,Regional,35
+51,White,Single,N1,IIB,Moderately differentiated,2,Regional,31ss
