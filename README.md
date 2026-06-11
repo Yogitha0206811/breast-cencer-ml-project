@@ -39,4 +39,4 @@ python main.py
 - Model saved as cancer_model.pkl
 
 ## Author
-Your Name
+Yogitha.I
